@@ -20,13 +20,7 @@ export class VocallabsApi implements ICredentialType {
             required: true,
             description: 'Your VocalLabs API authentication token',
         },
-        {
-            displayName: 'Base URL',
-            name: 'baseUrl',
-            type: 'string',
-            default: 'https://api.superflow.run',
-            description: 'Base URL for VocalLabs API (override for staging)',
-        },
+        // Base URL field removed - will use hardcoded value
     ];
     
     authenticate: IAuthenticateGeneric = {
