@@ -149,7 +149,7 @@ For issues or questions:
 
 ## Author
 
-**Rohan Phogat**
-- Email: rohan@vocallabs.ai
-- GitHub: [@rohan-phogat](https://github.com/rohan-phogat)
-- VocalLabs: [vocallabs.ai](https://vocallabs.ai)
+**VocalLabs**
+- Email: mritunjoy.das@vocallabs.ai
+- Website: [vocallabs.ai](https://vocallabs.ai)
+- GitHub: [@Vocallabsai](https://github.com/Vocallabsai)
